@@ -1,2 +1,2 @@
 # abaplint.org_issues
-Issues related to [abaplint.org](https://abaplint.org/)
+Issues related to [app.abaplint.org](https://app.abaplint.org/)
